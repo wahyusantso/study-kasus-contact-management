@@ -25,7 +25,7 @@ Response Body Success :
         "id" : 1,
         "street" : "Jl. Arief rahman",
         "city" : "Depok",
-        "Province" : "Jawa Barat",
+        "province" : "Jawa Barat",
         "country" : "Indonesia",
         "postal_code" : "08213"
     }
